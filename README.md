@@ -11,8 +11,3 @@ Undergraduate student in **Internet Engineering Technology (D4 Teknologi Rekayas
 - **Programming & Backend:** Python, Golang, PHP, C/C++, MicroPython, SQL (MariaDB/MySQL)
 - **Data & Web:** XGBoost, Scikit-Learn, Streamlit, HTML5/CSS3, Bootstrap
 - **Hardware & Embedded:** Arduino Uno, Digital Logic ICs (74LS90, 74LS85, NE555)
-
-#### 📌 Featured Projects
-1. **[Network Intrusion Detection System (NIDS) SOC Dashboard](#)** – ML-based intrusion classifier using XGBoost, SMOTE, and Streamlit.
-2. **[Enterprise High-Availability Network Topology](#)** – 4-floor enterprise architecture with 12 VLANs, multi-layer switching, and OSPF.
-3. **[Relational Retail Database System](#)** – 13-table MariaDB architecture with automated triggers, views, and role-based DCL security.
